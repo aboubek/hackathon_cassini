@@ -32,4 +32,4 @@ This part written in C# and web technologies (Javascript, html, css etc.). Its w
 Matěj Mužátko - https://github.com/mutje/ </br>
 Georgi S. Georgiev - https://github.com/GeorgiSGeorgiev </br>
 Mikoláš Belec
-Filip Beránek = https://github.com/filipberanek</br>
+Filip Beránek - https://github.com/filipberanek</br>
