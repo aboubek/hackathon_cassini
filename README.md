@@ -1,4 +1,4 @@
-# hackathon_cassini
+# Hackathon Cassini - Orbital Watchdog
 
 In case of any accidents/disasters, time is crucial, therefore we developed application, that is near real-time monitoring impact of such incidents and help with work coordination.
 
