@@ -31,3 +31,4 @@ This part written in C# and web technologies (Javascript, html, css etc.). Its w
 ## Team
 Matěj Mužátko - https://github.com/mutje/ </br>
 Georgi S. Georgiev - https://github.com/GeorgiSGeorgiev
+Mikoláš Belec
