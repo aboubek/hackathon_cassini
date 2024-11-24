@@ -29,7 +29,7 @@ Anomaly detection is implemented in visualization part. We are preprocessing dat
 This part written in C# and web technologies (Javascript, html, css etc.). Its written to aggregate streams, put layer on top of each other and visualize crucial parts. 
 
 ## Team
-Jakub Weiner - </br>
+Jakub Weiner - https://github.com/aboubek </br>
 Matěj Mužátko - https://github.com/mutje/ </br>
 Georgi S. Georgiev - https://github.com/GeorgiSGeorgiev </br>
 Mikoláš Belec </br>
