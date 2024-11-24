@@ -1,4 +1,4 @@
-# hackathon_cassini
+# Hackathon Cassini - Orbital Watchdog
 
 In case of any accidents/disasters, time is crucial, therefore we developed application, that is near real-time monitoring impact of such incidents and help with work coordination.
 
@@ -29,5 +29,9 @@ Anomaly detection is implemented in visualization part. We are preprocessing dat
 This part written in C# and web technologies (Javascript, html, css etc.). Its written to aggregate streams, put layer on top of each other and visualize crucial parts. 
 
 ## Team
+
 Matěj Mužátko - https://github.com/mutje/
-Anton Kováč - https://github.com/Tonda-K/
+Georgi S. Georgiev - https://github.com/GeorgiSGeorgiev </br>
+Mikoláš Belec </br>
+Filip Beránek - https://github.com/filipberanek</br>
+Anton Kováč - https://github.com/Tonda-K/ </br>
