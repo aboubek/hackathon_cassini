@@ -1,0 +1,16 @@
+openeo
+h5netcdf
+matplotlib
+pyarrow 
+rioxarray 
+geopandas 
+openeo[jupyter]
+staticmap
+pillow
+requests
+geotiler
+ultralytics
+torch
+numpy
+tqdm
+pandas
